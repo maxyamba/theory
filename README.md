@@ -1,2 +1,2 @@
-# theory_lab1
+# theory
 Lab1
